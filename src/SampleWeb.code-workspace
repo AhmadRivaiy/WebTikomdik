@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "SSH FS - ms_server",
+			"uri": "ssh://ms_server/"
+		}
+	],
+	"settings": {}
+}
